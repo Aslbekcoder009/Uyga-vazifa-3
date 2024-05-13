@@ -1,0 +1,758 @@
+/*
+* Prefixed by https://autoprefixer.github.io
+* PostCSS: v8.4.14,
+* Autoprefixer: v10.4.7
+* Browsers: last 4 version
+*/
+
+*{
+    margin: 0;
+    padding: 0;
+    -webkit-box-sizing: border-box;
+            box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+
+.ota{
+    width: 1200px ;
+    height: 12763px;
+    border: 1px solid black;
+    margin: 0px auto;
+
+}
+
+.adf{
+    font-size: 25px ;
+    cursor: pointer;
+}
+
+.asf{
+    margin-left: 400px;
+    font-size: 16px;
+    cursor: pointer;
+}
+.asf:hover{
+    color: red  ;
+}
+.as{
+    margin-left: 32px;
+    font-size: 16px;
+    cursor: pointer;
+}
+.as:hover{
+    color: red  ;
+}
+.a{
+    margin-left: 32px;
+    font-size: 16px;
+    cursor: pointer;
+}
+.a:hover{
+    color: red  ;
+}
+.b{
+    width: 154px;
+    height: 57px;
+    background-color: #EFAE35;
+    font-size: 16px;
+    border-radius: 80px;
+    border: 1px solid transparent;
+    margin-left: 32px;
+   margin-top: 10px;;
+}
+.b:hover{
+    background-color: aqua;
+}
+.lop{
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+.bosh1{
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+}
+.bosh2{
+   width: 1200px;
+   height: 799px;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  margin-top: 30px;
+   background-image: url("./IMAGE.jpg");
+   cursor: pointer;
+
+}
+.s1{
+    font-size: 50px;
+    margin-left: 200px;
+    color: transparent;
+    margin-bottom: 100px;
+}
+.c1{
+    font-size: 50px;
+    margin-left: 90px;
+    margin-top: 20px;
+    margin-bottom: 32px;
+}
+.p{
+    font-size: 31px;
+    margin-left: 90px;
+    margin-bottom: 196px;
+
+}
+.k{
+    font-size: 16px;
+    margin-left: 122px;
+}
+.k:hover{
+    color: #EFAE35;
+    cursor: pointer;
+}
+.bosh3{
+    width: 1020px;
+    height: 640px;
+    border: 1px solid black;
+    margin: 0px auto;
+    margin-top: 116px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    cursor: pointer;
+}
+.yozuv{
+    margin-left: 72px;
+    margin-top: 143px;
+}
+.cd{
+    font-size: 52px;margin-bottom: 32px;
+}
+.cs{
+    margin-bottom: 54px;
+}
+.bn{
+    background-color: #EFAE35;
+    width: 134px;
+    height: 57px;
+    border-radius: 80px;
+    border: 1px solid transparent;
+    cursor: pointer;
+}
+.n{
+    background-color: white;
+    width: 101px;
+    height: 26px;
+    margin-left: 24px;
+    cursor: pointer;
+    border: 1px solid transparent;
+    border-bottom: 2px solid gray;
+}
+.bn:hover{
+    background-color: aquamarine;
+}
+.n:hover{
+    background-color: aquamarine;
+}
+.ko{
+    width: 532px;
+    height: 450px;
+    margin-top: 95px;
+}
+.S{
+    margin-top: 261px;
+    font-size: 50px;
+    margin-left: 90px;
+}
+.A{
+    margin-left: 90px;
+    font-size: 18px;
+    margin-top:19px ;
+}
+.D{
+    font-size: 56px;
+    margin-left: 90px;
+    margin-top: 15px;
+}
+.fg{
+    width: 400px;
+    height: 1px ;
+    margin-left: 90px;
+    margin-top: 15px;
+    color:#B16CEA1A;
+}
+.df{
+    margin-left: 90px;
+    margin-top: 26px;
+    font-size: 18px;
+}
+.f{
+    margin-left: 90px;
+    margin-top: 20px;
+    font-size: 10px;
+}
+.flex{
+    display: inline-block;
+    cursor: pointer;
+}
+.sd{
+    display: inline-block;
+    margin-left: 120px;
+    cursor: pointer;
+}
+
+.bosh4{
+    width: 1000px;
+    height: 700px;
+    margin: 0px auto;
+    cursor: pointer;
+    margin-top: 200px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+}
+.look{
+    width: 458px;
+    height: 305px;
+    margin-top: 140px;
+}
+.uo{
+    margin-top: 20px;
+    font-size: 50px;
+    margin-left: 104px;
+
+}
+.u{
+    margin-left: 104px; 
+    margin-top: 19px;
+    font-size: 17px;
+}
+.o{
+    margin-left: 104px;
+    font-size: 56px;
+    margin-top: 15px;
+}
+.i{
+    margin-left: 104px;
+    font-size: 15px ;
+    margin-top: 26px;
+}
+.w{
+    margin-left: 104px;
+    margin-top: 26px;       
+}
+.youz{
+    margin-left: 90px;
+}
+.vc{
+    font-size: 50px;
+}
+.loi{
+    font-size: 19px;
+}
+.lok{
+    font-size: 50px;
+    margin-top: 30px        ;
+}
+.po{
+        margin-top: 10px;
+        font-size: 13px;
+}
+.dol{
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+}
+.kk{
+    width: 458px;
+    height: 305px;
+    margin-left: 106px; 
+}
+.kol{
+    width: 1000px;
+    height: 500px;
+
+        margin: 0px auto;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    margin-top: 200px   ;
+
+}
+.ko{
+    width: 458px;
+    height: 306px;
+}
+.clas{
+    font-size: 40px;
+    margin-left: 104px;
+}
+.cla{
+    font-size: 16px;
+    margin-left: 104px;
+}
+.cp{
+    font-size: 56px;
+    margin-left: 104px;
+    margin-top: 20px;    
+}
+.g{
+    margin-left: 104px;
+    margin-top: 30px;
+}
+.lk{
+    font-size: 12px;
+    margin-left: 104px;
+    margin-top: 10px;
+}
+.fer{
+    font-size: 58px;
+    margin-top: 268px;
+    margin-left: 492px;
+    cursor: pointer;
+}
+.boc{
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    margin-top: 79px;
+    margin-left: 180px;
+    margin-right: 180px;
+    cursor: pointer;
+}
+.ll{
+    margin-left: 80px;
+    cursor: pointer;
+}
+.klk{
+    margin-left: 548px;
+    margin-top: 32px;
+    cursor: pointer;
+}
+.orqafonli{
+    width: 1200px;
+    height: 802px;
+    background-image: url("./katta.png");
+    margin-top: 180px;
+}
+.clasd{
+    color: transparent;
+    margin-bottom: 220px;
+
+    margin-left: 90px;
+}
+.casd{
+    font-size: 72px;
+    margin-left: 90px;
+    color: #FFFF;
+    margin-bottom: 35px;
+}
+.bb{
+    color: white;
+    margin-left: 90px;
+    font-size: 20px;
+}
+.lore{
+    border: 1px solid black;
+    width: 128px;
+    height: 128px;
+    background-color: white;
+
+    
+}
+.rate{
+    font-size: 16px;
+    margin-top: 10px;
+}
+.dart{
+    display: flex;
+    margin-left: 148px;
+    margin-top: 85px;
+}
+.qora{
+   
+    margin-left: 90px;
+    margin-top: 62px;
+    display: inline-block;
+    margin: 0px auto;
+    margin-left: 58px;
+    margin-top: 51px;
+}
+.yw{
+    color: #FFFF;
+    display: inline-block;
+    font-size: 39px;
+    margin-left: 16px;
+
+    
+
+}
+.we{
+    font-size: 13px;
+    color: #FFFF    ;
+    margin-left: 220px;
+}
+.block{
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+   
+
+}
+.hu{
+    font-size: 48px;
+    margin-left: 90px;
+    margin-top: 233px;
+}
+.lop{
+    margin-left: 90px;
+}
+.lot{
+    margin-left: 90px;
+    font-size: 22px;
+    margin-top: 47px;
+border: 1px solid transparent;
+
+
+}
+.display{
+    display: inline-block;
+}
+.displa{
+    display: inline-block;
+    margin-left: 114px;
+    margin-top: 220px;
+}
+.er{
+    margin-top: 155px;
+    margin-left: 90px;
+    display: inline-block;
+}
+.xot{
+    display: inline-block;
+
+}
+.clar{
+    margin-top: 110px;
+    margin-left: 104px;
+    font-size: 58px;
+
+
+}
+.otsha{
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+}
+.sin{
+    margin-left: 104px;
+    margin-top: 28px;
+}
+.how{
+    margin-left: 104px;
+    margin-top: 46px;
+}
+.poy{
+    margin-top: 126px;
+    margin-left: 90px;
+}
+.po{
+    font-size: 48px;
+}
+.lkk{
+ margin-left: 104px;   
+ margin-top: 110px; 
+}
+.orqacha{
+    width: 1020px;
+    height: 574px;
+    margin: 0px auto;
+
+    margin-top: 222px;
+    background-image: url("./125.png");
+}
+.ser{
+    width: 225px;
+    height: 57px;
+    background-color: green;
+    border-radius: 80px;
+    border: 1px solid transparent;
+  margin-left: 398px;
+  margin-top: 259px;
+  color: white;
+}
+.ser:hover{
+    background-color: black;
+    cursor: pointer;
+}
+.footer{
+    width: 1200px;
+    height: 374px;
+    background-color: #24160B   ;
+    margin-top: 140px;
+    display:-webkit-box;
+    display:-ms-flexbox;
+    display:flex ;
+}
+.gy{
+    color: #FFFFFF;
+    margin-left: 90px;
+    margin-top: 50px;
+
+}
+.gay{
+    color: #FFFFFF;
+    margin-left: 90px;
+    margin-top: 50px;
+}
+.lkh{
+    margin-top: 62px;
+}
+.ds{
+    font-size: 72px;
+    margin-top: 137px;
+    margin-left: 486px;
+}
+.da{
+    margin-left: 273px;
+    margin-top: 32px;
+}
+.raslar{
+    margin-top: 112px;
+    margin-left: 48px;
+}
+.dst{
+    margin-left: 32px;
+    cursor: pointer;
+}
+.yazlar{
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    gap: 34px;
+}
+.csgo{
+    margin-left: 90px;
+    margin-top: 27px;
+    cursor: pointer;
+}
+.yazilar{
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    gap: 33px;
+}
+.tr{
+    margin-left: 90px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+.tar{
+    margin-top: 10px;
+    cursor: pointer;
+}
+.katta{
+    margin-left: 161px;
+    margin-top: 355px;
+    font-size: 92px;
+    cursor: pointer;
+} 
+.katt{
+    margin-left: 400px;
+    font-size: 92px;
+    cursor: pointer;
+
+}
+.kat{
+    font-size: 92px;
+    margin-left: 200px;
+    cursor: pointer;
+
+}
+.ka{
+    font-size: 92px;
+    margin-left: 280px;
+    cursor: pointer;
+
+}
+.laq{
+    font-size: 30px;
+    margin-left: 386px;
+    margin-top: 39px;
+}
+.waq{
+    margin-top: 431px;
+    font-size: 92px;
+    margin-left: 108px;
+}
+.wa{
+    margin-left: 338px;
+    font-size: 92px;
+}
+.lasj{
+    display: block;
+    margin-top: 16px;
+}
+.das{
+    display: inline-block;
+    gap: 100px;
+    margin-top: 432px;
+    margin-left: 90px;
+}
+.oxiri{
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+}
+.oxirigacha{
+    width: 711px;
+    height: 585px;
+    border: 1px solid black ;
+    margin-top: 450px;
+    margin-left: 24px;
+  background-image: url(./oxiri3.png);
+}
+.life{
+    color: #FFFFFF;
+    margin-top: 192px;
+    margin-left: 152px;
+    font-size: 60px;
+}
+.porloq{
+    color: #FFFFFF;
+    font-size: 18px;
+    margin-left: 131px;
+    margin-top: 26px;
+}
+.bgt{
+    width: 134px;
+    height: 57px;
+    cursor: pointer;
+    border-radius: 80px;
+    background-color: #EFAE35;
+    margin-left: 288px;
+    margin-top: 24px;
+}
+.bgt:hover{
+    background-color: aqua;
+}
+.shut{
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+
+    margin-left: 98px;
+    margin-top: 259px;
+}
+.kasal{
+    font-size: 21px;
+}
+.kasa{
+    font-size: 21px;
+    margin-left: 64px;
+}
+.kas{
+    font-size: 21px;
+    margin-left: 67px;
+}
+.ka{
+    font-size: 21px;
+    margin-left: 64px;
+}
+.lef{
+    margin-left: 372px;
+
+}
+.oxir2{
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    color: #70706C;
+    margin-left: 98px;
+    margin-top: 19px;
+    font-size: 12px;
+    gap: 121px;
+}
+.fgt{
+    width: 342px;
+    height: 57px;
+    border-radius:80px   ;
+    background-color: transparent;
+    margin-right: 290px;
+    border: 1px solid #70706C33;
+}
+.fgt:hover{
+    border: 1px solid blue;
+}
+.lka{
+    width: 1004px;
+    margin: 0px auto;                    
+    margin-top:127px ;
+}
+.bor{
+    font-size: 8px;
+    color: #70706C;
+}
+
+.num{
+    color: #70706C;
+    font-size: 13px;
+}
+.sda{
+    margin-top: 26.92px;
+    margin-left: 98px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+}
+.lpo{
+    width: 48px;
+    height: 48px;
+    border: 1px solid black;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    margin-left: 67px;
+}
+.top{
+ margin-top: 12px;
+ margin-left: 12px;
+}
+.lu{
+    width: 48px;
+    height: 48px;
+    border: 1px solid black;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    margin-left: 16px;
+}
+.kop{
+    margin-left: 137px;
+    color: #70706C;
+    font-size: 13px;
+}
+.io{
+    color:#70706C ;
+    font-size: 13px;
+    margin-left: 16px;
+}.example {
+    display: -ms-grid;
+    display: grid;
+    -webkit-transition: all .5s;
+    -o-transition: all .5s;
+    transition: all .5s;
+    -webkit-user-select: none;
+       -moz-user-select: none;
+        -ms-user-select: none;
+            user-select: none;
+    background: -webkit-gradient(linear, left top, left bottom, from(white), to(black));
+    background: -o-linear-gradient(top, white, black);
+    background: linear-gradient(to bottom, white, black);
+}
